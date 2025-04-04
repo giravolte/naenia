@@ -1,6 +1,7 @@
 Naenia
 --------
 Simple library for Bencode encoding/decoding.
+This is an updated version of the original [bencode parser](https://github.com/bittorrent/bencode), originally written by **Petru Paler**.
 
 - http://en.wikipedia.org/wiki/Bencode
 - https://wiki.theory.org/BitTorrentSpecification#Bencoding
